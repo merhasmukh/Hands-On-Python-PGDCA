@@ -1,0 +1,13 @@
+Artificial Intelligence and the Python Ecosystem
+
+Python has established itself as the undisputed leader in artificial intelligence (AI), machine learning (ML), and natural language processing (NLP). This dominance is not accidental; rather, it is the result of several key factors: readability, an extensive ecosystem of high-performance libraries, and a vibrant global community of researchers and developers.
+
+Readability is critical. AI algorithms are mathematically complex. If developers had to struggle with verbose syntax or low-level memory management, development cycles would slow down dramatically. Python's clean and intuitive syntax allows engineers to focus on designing models and solving problems rather than fighting the language itself.
+
+Libraries are the building blocks of AI. Instead of writing matrix multiplication or neural network layers from scratch, Python developers leverage tools like NumPy, pandas, scikit-learn, TensorFlow, and PyTorch. These libraries are written in C/C++ or Fortran under the hood, ensuring that the computation is blazing fast while offering a user-friendly Python API.
+
+In this course, we focus on building AI application integration skills. Unlike deep learning researchers who train models from scratch, AI application developers act as system builders. They connect user interfaces to Large Language Models (LLMs) via REST APIs, prepare datasets, build agentic workflows, handle error states, and securely manage API keys.
+
+To succeed, students must master foundational libraries like 'requests' for API communication, 'json' for decoding structured server data, 'os' and 'pathlib' for file operations, and 'pandas' for data cleaning. This unit lays the groundwork by establishing environment isolation using virtual environments (venv), managing dependencies, and building clean data pipelines.
+
+By the end of this semester, students will graduate from writing simple scripts to engineering complex, multi-agent AI assistants that parse PDF manuals, retrieve data from relational databases, and invoke cloud APIs to solve real-world problems. Let's begin our journey by setting up our local environment and writing our first scripts.

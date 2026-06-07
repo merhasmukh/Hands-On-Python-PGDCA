@@ -1,0 +1,28 @@
+{
+  "id": "chatcmpl-9A2b3c4d5e6f",
+  "object": "chat.completion",
+  "created": 1717758300,
+  "model": "gpt-4o-mini",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Hello! I am your AI assistant. I can help you preprocess text, generate code, or analyze data patterns. Let's build a Python script together!"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 15,
+    "completion_tokens": 28,
+    "total_tokens": 43
+  },
+  "system_fingerprint": "fp_3bc12774ef",
+  "metadata": {
+    "latency_ms": 240,
+    "api_version": "2024-05-01",
+    "server_region": "us-east-1"
+  }
+}

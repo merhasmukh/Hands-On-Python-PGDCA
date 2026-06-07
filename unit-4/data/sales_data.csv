@@ -1,0 +1,11 @@
+date,product,units_sold,unit_price,region
+2026-05-01,AI Writing Assistant License,12,15,North
+2026-05-02,Vector DB Cloud Subscription,2,120,East
+2026-05-03,AI Token Pack Basic,45,5,West
+2026-05-04,AI Writing Assistant License,8,15,South
+2026-05-05,Vector DB Cloud Subscription,1,120,West
+2026-05-06,AI Token Pack Premium,15,25,North
+2026-05-07,AI Agent Platform Enterprise,3,450,East
+2026-05-08,AI Writing Assistant License,20,15,East
+2026-05-09,AI Token Pack Basic,60,5,South
+2026-05-10,AI Agent Platform Enterprise,1,450,West

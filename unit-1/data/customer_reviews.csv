@@ -1,0 +1,101 @@
+review_id,customer_name,rating,review_text,sentiment
+1,Alice Smith,5,  This AI writing assistant is absolutely amazing! Saved me hours of work. ,Positive
+2,Bob Jones,2,Quite disappointed. The API kept timing out and response was slow.,Negative
+3,Charlie Brown,4,"Good tool, but docs could be better. ",Positive
+4,Diana Prince,,The sentiment analysis is mostly accurate. Helpful for sorting customer emails.,Positive
+5,Evan Wright,1,Awful. Did not work at all. errors everywhere.,Negative
+6,Fiona Gallagher,5,LOVE IT! Best purchase this year. integration was seamless.,Positive
+7,George Miller,3,"   It's okay. Decent performance, but pricing is high.   ",Neutral
+8,Hannah Abbott,,    ,Neutral
+9,Ian Malcolm,5,"Life finds a way, and so does this amazing chatbot! Speechless.",Positive
+10,Julia Roberts,4,Very clean API and returns fast JSON responses. Highly recommend.,Positive
+11,User 11,4,Decent results. The model output was accurate enough for case 11.,Positive
+12,User 12,5,Excellent AI tool! Version 12 works like magic.,Positive
+13,User 13,4,Decent results. The model output was accurate enough for case 13.,Positive
+14,User 14,2,Worst experience ever. The module crashed.,Negative
+15,User 15,5,Excellent AI tool! Version 15 works like magic.,Positive
+16,User 16,4,Decent results. The model output was accurate enough for case 16.,Positive
+17,User 17,4,Decent results. The model output was accurate enough for case 17.,Positive
+18,User 18,5,Excellent AI tool! Version 18 works like magic.,Positive
+19,User 19,4,Decent results. The model output was accurate enough for case 19.,Positive
+20,User 20,,   ,Neutral
+21,User 21,2,Worst experience ever. The module crashed.,Negative
+22,User 22,4,Decent results. The model output was accurate enough for case 22.,Positive
+23,User 23,4,Decent results. The model output was accurate enough for case 23.,Positive
+24,User 24,5,Excellent AI tool! Version 24 works like magic.,Positive
+25,User 25,4,Decent results. The model output was accurate enough for case 25.,Positive
+26,User 26,4,Decent results. The model output was accurate enough for case 26.,Positive
+27,User 27,5,Excellent AI tool! Version 27 works like magic.,Positive
+28,User 28,2,Worst experience ever. The module crashed.,Negative
+29,User 29,4,Decent results. The model output was accurate enough for case 29.,Positive
+30,User 30,,   ,Neutral
+31,User 31,4,Decent results. The model output was accurate enough for case 31.,Positive
+32,User 32,4,Decent results. The model output was accurate enough for case 32.,Positive
+33,User 33,5,Excellent AI tool! Version 33 works like magic.,Positive
+34,User 34,4,Decent results. The model output was accurate enough for case 34.,Positive
+35,User 35,2,Worst experience ever. The module crashed.,Negative
+36,User 36,5,Excellent AI tool! Version 36 works like magic.,Positive
+37,User 37,4,Decent results. The model output was accurate enough for case 37.,Positive
+38,User 38,4,Decent results. The model output was accurate enough for case 38.,Positive
+39,User 39,5,Excellent AI tool! Version 39 works like magic.,Positive
+40,User 40,,   ,Neutral
+41,User 41,4,Decent results. The model output was accurate enough for case 41.,Positive
+42,User 42,2,Worst experience ever. The module crashed.,Negative
+43,User 43,4,Decent results. The model output was accurate enough for case 43.,Positive
+44,User 44,4,Decent results. The model output was accurate enough for case 44.,Positive
+45,User 45,5,Excellent AI tool! Version 45 works like magic.,Positive
+46,User 46,4,Decent results. The model output was accurate enough for case 46.,Positive
+47,User 47,4,Decent results. The model output was accurate enough for case 47.,Positive
+48,User 48,5,Excellent AI tool! Version 48 works like magic.,Positive
+49,User 49,2,Worst experience ever. The module crashed.,Negative
+50,User 50,,   ,Neutral
+51,User 51,5,Excellent AI tool! Version 51 works like magic.,Positive
+52,User 52,4,Decent results. The model output was accurate enough for case 52.,Positive
+53,User 53,4,Decent results. The model output was accurate enough for case 53.,Positive
+54,User 54,5,Excellent AI tool! Version 54 works like magic.,Positive
+55,User 55,4,Decent results. The model output was accurate enough for case 55.,Positive
+56,User 56,2,Worst experience ever. The module crashed.,Negative
+57,User 57,5,Excellent AI tool! Version 57 works like magic.,Positive
+58,User 58,4,Decent results. The model output was accurate enough for case 58.,Positive
+59,User 59,4,Decent results. The model output was accurate enough for case 59.,Positive
+60,User 60,,   ,Neutral
+61,User 61,4,Decent results. The model output was accurate enough for case 61.,Positive
+62,User 62,4,Decent results. The model output was accurate enough for case 62.,Positive
+63,User 63,2,Worst experience ever. The module crashed.,Negative
+64,User 64,4,Decent results. The model output was accurate enough for case 64.,Positive
+65,User 65,4,Decent results. The model output was accurate enough for case 65.,Positive
+66,User 66,5,Excellent AI tool! Version 66 works like magic.,Positive
+67,User 67,4,Decent results. The model output was accurate enough for case 67.,Positive
+68,User 68,4,Decent results. The model output was accurate enough for case 68.,Positive
+69,User 69,5,Excellent AI tool! Version 69 works like magic.,Positive
+70,User 70,,   ,Neutral
+71,User 71,4,Decent results. The model output was accurate enough for case 71.,Positive
+72,User 72,5,Excellent AI tool! Version 72 works like magic.,Positive
+73,User 73,4,Decent results. The model output was accurate enough for case 73.,Positive
+74,User 74,4,Decent results. The model output was accurate enough for case 74.,Positive
+75,User 75,5,Excellent AI tool! Version 75 works like magic.,Positive
+76,User 76,4,Decent results. The model output was accurate enough for case 76.,Positive
+77,User 77,2,Worst experience ever. The module crashed.,Negative
+78,User 78,5,Excellent AI tool! Version 78 works like magic.,Positive
+79,User 79,4,Decent results. The model output was accurate enough for case 79.,Positive
+80,User 80,,   ,Neutral
+81,User 81,5,Excellent AI tool! Version 81 works like magic.,Positive
+82,User 82,4,Decent results. The model output was accurate enough for case 82.,Positive
+83,User 83,4,Decent results. The model output was accurate enough for case 83.,Positive
+84,User 84,2,Worst experience ever. The module crashed.,Negative
+85,User 85,4,Decent results. The model output was accurate enough for case 85.,Positive
+86,User 86,4,Decent results. The model output was accurate enough for case 86.,Positive
+87,User 87,5,Excellent AI tool! Version 87 works like magic.,Positive
+88,User 88,4,Decent results. The model output was accurate enough for case 88.,Positive
+89,User 89,4,Decent results. The model output was accurate enough for case 89.,Positive
+90,User 90,,   ,Neutral
+91,User 91,2,Worst experience ever. The module crashed.,Negative
+92,User 92,4,Decent results. The model output was accurate enough for case 92.,Positive
+93,User 93,5,Excellent AI tool! Version 93 works like magic.,Positive
+94,User 94,4,Decent results. The model output was accurate enough for case 94.,Positive
+95,User 95,4,Decent results. The model output was accurate enough for case 95.,Positive
+96,User 96,5,Excellent AI tool! Version 96 works like magic.,Positive
+97,User 97,4,Decent results. The model output was accurate enough for case 97.,Positive
+98,User 98,2,Worst experience ever. The module crashed.,Negative
+99,User 99,5,Excellent AI tool! Version 99 works like magic.,Positive
+100,User 100,,   ,Neutral

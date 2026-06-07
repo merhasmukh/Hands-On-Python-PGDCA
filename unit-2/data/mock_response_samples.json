@@ -1,0 +1,41 @@
+{
+  "openai_success": {
+    "id": "chatcmpl-12345",
+    "object": "chat.completion",
+    "created": 1717758300,
+    "model": "gpt-4o",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "To calculate token cost, multiply prompt tokens by input rate and completion tokens by output rate."
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 25,
+      "completion_tokens": 20,
+      "total_tokens": 45
+    }
+  },
+  "anthropic_success": {
+    "id": "msg_01XyZ",
+    "type": "message",
+    "role": "assistant",
+    "model": "claude-3-5-sonnet-20240620",
+    "content": [
+      {
+        "type": "text",
+        "text": "For secure API storage, make sure to add your .env file to your .gitignore rules."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 30,
+      "output_tokens": 22
+    }
+  }
+}

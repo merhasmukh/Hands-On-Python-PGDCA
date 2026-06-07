@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for readability.",
+    "category": "General"
+  },
+  {
+    "question": "What is a virtual environment?",
+    "answer": "A tool to create isolated environments for Python projects, preventing dependency conflicts.",
+    "category": "Setup"
+  },
+  {
+    "question": "How do I install dependencies?",
+    "answer": "Use 'pip install -r requirements.txt' to install listed requirements.",
+    "category": "Setup"
+  },
+  {
+    "question": "What is pandas?",
+    "answer": "A powerful Python library for data manipulation and analysis.",
+    "category": "Data"
+  },
+  {
+    "question": "How do I secure my API keys?",
+    "answer": "Store them in a .env file and load them using python-dotenv. Never commit them to GitHub.",
+    "category": "Security"
+  }
+]

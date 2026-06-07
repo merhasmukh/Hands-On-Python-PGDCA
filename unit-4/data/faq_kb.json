@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the PGDCA course?",
+    "answer": "PGDCA stands for Post Graduate Diploma in Computer Applications. It is a 1-year professional course introducing advanced computer software development and applications.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "How long is the program?",
+    "answer": "The course is 1 year in duration, divided into 2 semesters.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What is the eligibility criteria?",
+    "answer": "Graduation in any discipline from a recognized university.",
+    "category": "Admission"
+  },
+  {
+    "question": "What Python topics are covered in Unit 1?",
+    "answer": "Unit 1 covers Python installation, virtual environments (venv/conda), list/dicts navigation, custom modules, error handling, logging, os/pathlib, and basic pandas data structures.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What topics are studied in Unit 2?",
+    "answer": "Unit 2 focuses on REST APIs, status code handlers, requests GET/POST, JSON parsing, API key security, retry decorator backoffs, tiktoken token counting, and building reusable client modules.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What topics are studied in Unit 3?",
+    "answer": "Unit 3 teaches CLI argument parsing (sys.argv/argparse), batch files processing, building text summarizers/classifiers, output formatting (tabulate/tqdm), and writing debugging workshops.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What topics are studied in Unit 4?",
+    "answer": "Unit 4 teaches security audits, git version controls, report pipelines, hybrid FAQ assistants, Streamlit web applications, and group mini-projects architecture and deployment.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "Do I need prior coding experience?",
+    "answer": "No, the course starts from basic programming fundamentals and builds up step-by-step.",
+    "category": "Admission"
+  },
+  {
+    "question": "Is there a practical component?",
+    "answer": "Yes! The course is highly hands-on with dedicated practical sessions and weekly lab worksheets.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What AI models will we learn to integrate?",
+    "answer": "We integrate cloud LLM models like OpenAI (GPT-4o) and Anthropic (Claude-3.5) using APIs.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "How are semesters structured?",
+    "answer": "Semesters combine theoretical sessions with rigorous hands-on programming labs, culminating in final system design projects.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is an open-source Python framework used to build and deploy custom interactive web interfaces for data science and AI applications in minutes.",
+    "category": "Technology"
+  },
+  {
+    "question": "How do we secure API keys?",
+    "answer": "We store them inside local .env files loaded by python-dotenv and exclude them from git repositories using .gitignore rules.",
+    "category": "Security"
+  },
+  {
+    "question": "What is pandas used for in this course?",
+    "answer": "Pandas is used to load, clean, preprocess text fields, and format analytical aggregations before feeding data to AI models.",
+    "category": "Technology"
+  },
+  {
+    "question": "What is a git remote?",
+    "answer": "A remote is a reference to a version-controlled repository hosted on a server like GitHub to share your code changes.",
+    "category": "Technology"
+  },
+  {
+    "question": "What is a token limit?",
+    "answer": "Tokens are word fragments. APIs restrict prompt sizes, requiring token counting and text truncation.",
+    "category": "Technology"
+  },
+  {
+    "question": "Can I build web apps by the end?",
+    "answer": "Yes, Unit 4 focuses on turning Python tools into Streamlit web apps and constructing self-contained interactive AI dashboards.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What is a CLI?",
+    "answer": "CLI stands for Command Line Interface. It is a text-based terminal tool that takes arguments to automate operations.",
+    "category": "Curriculum"
+  },
+  {
+    "question": "What does a security audit check for?",
+    "answer": "A security audit checks files for hardcoded credentials (like 'sk-...') or secret values printed in plain text inside logs.",
+    "category": "Security"
+  },
+  {
+    "question": "How do groups collaborate on projects?",
+    "answer": "Groups use GitHub repositories to share code modules, track bugs, write README documentation, and coordinate tasks.",
+    "category": "Collaboration"
+  }
+]
